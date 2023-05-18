@@ -1,0 +1,16 @@
+body{
+    background-color:beige
+}
+body a {
+    text-decoration: none;
+    color:black;
+    padding-inline: 50px;
+
+}
+a:hover {
+    color: lightblue;
+  }
+body p {
+    font-size: 20px;
+
+}
